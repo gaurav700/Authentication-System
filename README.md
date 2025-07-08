@@ -13,7 +13,7 @@ This documentation describes a JavaScript-based authentication system that provi
 3. **Auth Class**: Core authentication logic and user management
 
 ### Architecture Diagram
-![Architecture](./system-design.png)
+![Architecture](./System-design.png)
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                     Authentication System                      │
